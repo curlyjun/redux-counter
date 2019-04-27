@@ -7,7 +7,7 @@ export default class App extends Component {
     return (
       <div>
         <Counter />
-        <Option />
+          <Option />
         <Buttons />
       </div>
     )
